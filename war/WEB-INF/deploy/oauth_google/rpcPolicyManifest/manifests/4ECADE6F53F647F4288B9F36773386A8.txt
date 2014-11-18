@@ -1,0 +1,2 @@
+serviceClass: uk.ac.rdg.client.GreetingService
+path: 474271883F1EE0B40BDBC32CAE4597AB.gwt.rpc
