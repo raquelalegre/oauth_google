@@ -18,7 +18,9 @@
   <!-- <inherits name='com.google.gwt.user.theme.dark.Dark'/>     -->
 
   <!-- Other module inherits                                      -->
-
+  <!-- OAUTH module -->
+  <inherits name='com.google.api.gwt.oauth2.OAuth2'/>
+  
   <!-- Specify the app entry point class.                         -->
   <entry-point class='uk.ac.rdg.client.Oauth_google'/>
 
